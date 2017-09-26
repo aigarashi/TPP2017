@@ -1,4 +1,4 @@
-# 13th Theorem Proving and Provers (TPP 2017)
+# The 13th Theorem Proving and Provers Meeting (TPP 2017)
 
 TPP (Theorem Proving and Provers) ミーティングは，2005 年から年に１回開催され，定理証明系を作っている人から使う側の人まで幅広い人たちが集まり，様々な側面からの話をしてアイディアの交換をしてきたものです．
 
@@ -8,7 +8,7 @@ TPP (Theorem Proving and Provers) ミーティングは，2005 年から年に�
 
 ### 日付 / Date
 
-From Wednesday, December 6, afternoon to Thursday, December 7, evening.
+2017年12月6日(水)午後〜12月7日(木) / From Wednesday, December 6, afternoon to Thursday, December 7, evening.
 
 ### 会場 / Venue
 
@@ -16,12 +16,11 @@ From Wednesday, December 6, afternoon to Thursday, December 7, evening.
 
 - Dec. 6: 
 京都大学 総合研究７号館１階情報２講義室 / Joho 2 Lecture Room, Research Building No. 7（[地図](http://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r_y/")の 68 番の建物 / The building No. 68 in this [map](http://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r_y/")）
-- Dec. 7:  京都大学 工学部総合校舎２階２１３号室 / Room 213, Faculty of Engineering Integrated Research Bldg.（（[地図](http://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r_y/")の 53 番の建物 / The building No. 53 in this [map](http://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r_y/")）
+- Dec. 7:  京都大学 工学部総合校舎２階２１３号室 / Room 213, Faculty of Engineering Integrated Research Bldg.（[地図](http://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r_y/")の 53 番の建物 / The building No. 53 in this [map](http://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r_y/")）
 
 ### 住所 / Address
 
-* 606-8501 京都市左京区吉田本町
-* Yoshida-Honmachi, Sakyo-ku, Kyoto 606-8501
+606-8501 京都市左京区吉田本町 / Yoshida-Honmachi, Sakyo-ku, Kyoto 606-8501
 
 ### 懇親会 / Dinner party
 
