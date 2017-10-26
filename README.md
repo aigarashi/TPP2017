@@ -24,7 +24,7 @@ TPP (Theorem Proving and Provers) ミーティングは，2005 年から年に�
 
 ### 懇親会 / Dinner party
 
-TBA
+6日夜に予定しています． 詳細については少々お待ちください． / Planned on the 6th evening.  Details to be announced.
 
 ### 幹事 / Organizer
 
