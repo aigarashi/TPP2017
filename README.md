@@ -32,7 +32,7 @@ TPP (Theorem Proving and Provers) ミーティングは，2005 年から年に�
 
 ## 参加申込 / Registration
 
-TBA
+[こちらからお願いします．](https://docs.google.com/forms/d/e/1FAIpQLSeNY78Nptel4SY_U5MAGMX6qEzyipeFBSnGdCxP-oVkzS9jFA/viewform)
 
 ## Technical Program
 
