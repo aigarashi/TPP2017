@@ -15,8 +15,8 @@ TPP (Theorem Proving and Provers) ミーティングは，2005 年から年に�
 会場は初日と二日目で違うので注意してください．The venues are different on the first and second day.
 
 - Dec. 6: 
-京都大学 総合研究７号館１階情報２講義室 / Joho 2 Lecture Room, Research Building No. 7（[地図](http://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r_y/")の 68 番の建物 / The building No. 68 in this [map](http://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r_y/")）
-- Dec. 7:  京都大学 工学部総合校舎２階２１３号室 / Room 213, Faculty of Engineering Integrated Research Bldg.（[地図](http://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r_y/")の 53 番の建物 / The building No. 53 in this [map](http://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r_y/")）
+京都大学 総合研究７号館１階情報２講義室 / Joho 2 Lecture Room, Research Building No. 7（[地図](http://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r_y/)の 68 番の建物 / The building No. 68 in this [map](http://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r_y/)）
+- Dec. 7:  京都大学 工学部総合校舎２階２１３号室 / Room 213, Faculty of Engineering Integrated Research Bldg.（[地図](http://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r_y/)の 53 番の建物 / The building No. 53 in this [map](http://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r_y/)）
 
 ### 住所 / Address
 
