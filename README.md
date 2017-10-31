@@ -38,7 +38,7 @@ TPP (Theorem Proving and Provers) ミーティングは，2005 年から年に�
 
 TBA
 
-## TPPmark
+## TPPmark (出題: 小島健介さん)
 
 今回は，最長共通部分列(LCS)に関する問題です．
 
