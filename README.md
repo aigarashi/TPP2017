@@ -28,7 +28,7 @@ TPP (Theorem Proving and Provers) ミーティングは，2005 年から年に�
 
 ### 幹事 / Organizer
 
-五十嵐 淳(京都大学 情報学研究科) / Atsushi IGARASHI (Graduate School of Informatics, Kyoto University) [問い合わせ先はこちらへ](mailto:tpp2017@fos.kuis.kyoto-u.ac.jp)
+五十嵐 淳(京都大学 情報学研究科) / Atsushi IGARASHI (Graduate School of Informatics, Kyoto University) [問い合わせはこちらへ](mailto:tpp2017@fos.kuis.kyoto-u.ac.jp)
 
 ## 参加申込 / Registration
 
