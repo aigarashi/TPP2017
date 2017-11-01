@@ -28,7 +28,7 @@ TPP (Theorem Proving and Provers) ミーティングは，2005 年から年に�
 
 ### 幹事 / Organizer
 
-五十嵐 淳(京都大学 情報学研究科) / Atsushi IGARASHI (Graduate School of Informatics, Kyoto University)
+五十嵐 淳(京都大学 情報学研究科) / Atsushi IGARASHI (Graduate School of Informatics, Kyoto University) [問い合わせ先はこちらへ](mailto:tpp2017@fos.kuis.kyoto-u.ac.jp)
 
 ## 参加申込 / Registration
 
@@ -40,7 +40,7 @@ TBA
 
 ## TPPmark (出題: 小島健介さん)
 
-今回は，最長共通部分列(LCS)に関する問題です．
+今回は，最長共通部分列(LCS)に関する問題です．解答は[問い合わせ先](mailto:tpp2017@fos.kuis.kyoto-u.ac.jp)までお送りください．
 
 ### 定義
 
