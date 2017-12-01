@@ -37,7 +37,53 @@ TPP (Theorem Proving and Provers) ミーティングは，2005 年から年に�
 
 ## Technical Program
 
-TBA
+### 12/6(水)
+
+* 13:30〜13:40 (オープニング)
+
+* 13:40〜14:10 田中哲(産業技術総合研究所)「Coq からの低レベル C コード生成」
+
+> 我々は Coq から C コードを生成する Coq plugin を開発している。Coq から C コードを生成することにより、検証された高速なコードを実現でき、また、さまざまなプログラミング言語から生成したコードを利用できる。この講演では、SSE を利用した HTML escape 関数を例として Coq から低レベルな C コードを生成する方法について述べる。我々の方法では、プログラムを Coq 内で記述することにより検証を可能とし、 また SSE のような CPU の機能を直接使うことも可能であり、高速なコードを生成できる。
+
+* 14:10〜14:40 HUGUNIN, Jasper(東京工業大学) "Inductive-Inductive definitions in intensional type theory"
+
+> Forsbergの卒業論文で，extensional type theoryで Inductive-Inductive typesをindexed inductive typesに変換する方法があった．しかし，それは uniqueness of identity proofsを必須としていたので，直接 intensional type theoryで同じことはできない．この講演で進行中のintensional type theoryでの変換方法を発表します．
+
+* 14:40〜15:20 (休憩)
+
+* 15:20〜15:50 佐藤雅彦(京都大学): A common notation system for both the lambda-calculus and combinatory logic
+
+> We present a notation system which can be used to faithfully represent both the terms of lambda calculus and combinatory logic. We show the faithfulness of the representations by observing that the representations respect the beta and eta reduction rules.
+
+* 15:50〜16:20 中野圭介(電気通信大学): ComplCoq: Coq のための Rewrite Hint 完備化プラグイン
+
+### 12/7(木)
+
+* 10:00〜10:30 坂口和彦(筑波大学): (TBA)
+
+* 10:30〜10:50 小林直樹(東京大学): Higher-Orer Program Verification in Coq via Reduction to HFL Model Checking
+<!-- 15〜20分で十分 -->
+> HFLモデル検査への帰着を利用して、Coqを用いて高階プログラムの検証を行う試みについて紹介する。
+
+* 11:00〜11:45 小島健介(京都大学)他: TPPmark 2017
+
+* 11:45〜13:30 (休憩)
+
+* 13:30〜14:00 師玉康成(信州大学工学部電子情報システム工学科): Mizarによる微分幾何形式化の準備状況(陰関数定理)
+
+> Mizarによる微分幾何の形式化の準備状況を概説する。当面の目標はストークス定理などの形式化であるが、現状、陰関数定理まで形式化ができているのでこれを中心に経過を報告する。
+
+* 14:00〜14:30 岡崎裕之(信州大学): Mizarによる計算量のためのアルゴリズムの形式化について
+<!-- 師玉さんの後 -->
+> 形式検証技術を用いた暗号システムの安全性評価実現のためには計算量理論についての形式化を行う必要がある。そのために現在（確率的）アルゴリズムを形式記述方法を模索している。本講演ではその途中経過を紹介する。
+
+* 14:30〜15:00 Reynald Affeldt (産業技術総合研究所): (仮)形式的な情報・符号理論のライブラリに向けて
+
+* 15:00〜15:30 (休憩)
+
+* 15:30〜16:00 南出靖彦 (東京工業大学): 正規表現マッチングにおけるPOSIX戦略の定式化の再考
+
+* 16:00〜16:30 水野雅之 (東北大学情報科学研究科): (TBA)
 
 ## TPPmark (出題: 小島健介さん)
 
