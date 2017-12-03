@@ -45,29 +45,31 @@ TPP (Theorem Proving and Provers) ミーティングは，2005 年から年に�
 
 > 我々は Coq から C コードを生成する Coq plugin を開発している。Coq から C コードを生成することにより、検証された高速なコードを実現でき、また、さまざまなプログラミング言語から生成したコードを利用できる。この講演では、SSE を利用した HTML escape 関数を例として Coq から低レベルな C コードを生成する方法について述べる。我々の方法では、プログラムを Coq 内で記述することにより検証を可能とし、 また SSE のような CPU の機能を直接使うことも可能であり、高速なコードを生成できる。
 
-* 14:10〜14:40 HUGUNIN, Jasper(東京工業大学) "Inductive-Inductive definitions in intensional type theory"
-
-> Forsbergの卒業論文で，extensional type theoryで Inductive-Inductive typesをindexed inductive typesに変換する方法があった．しかし，それは uniqueness of identity proofsを必須としていたので，直接 intensional type theoryで同じことはできない．この講演で進行中のintensional type theoryでの変換方法を発表します．
-
-* 14:40〜15:20 (休憩)
-
-* 15:20〜15:50 佐藤雅彦(京都大学): A common notation system for both the lambda-calculus and combinatory logic
+* 14:10〜15:00 佐藤雅彦(京都大学): A common notation system for both the lambda-calculus and combinatory logic
 
 > We present a notation system which can be used to faithfully represent both the terms of lambda calculus and combinatory logic. We show the faithfulness of the representations by observing that the representations respect the beta and eta reduction rules.
 
-* 15:50〜16:20 中野圭介(電気通信大学): ComplCoq: Coq のための Rewrite Hint 完備化プラグイン
+* 15:00〜15:30 (休憩)
+
+* 15:30〜16:00 HUGUNIN, Jasper(東京工業大学) "Inductive-Inductive definitions in intensional type theory"
+
+> Forsbergの卒業論文で，extensional type theoryで Inductive-Inductive typesをindexed inductive typesに変換する方法があった．しかし，それは uniqueness of identity proofsを必須としていたので，直接 intensional type theoryで同じことはできない．この講演で進行中のintensional type theoryでの変換方法を発表します．
+
+* 16:00〜16:30 中野圭介(電気通信大学): ComplCoq: Coq のための Rewrite Hint 完備化プラグイン
 
 ### 12/7(木)
 
-* 10:00〜10:30 坂口和彦(筑波大学): (TBA)
+* 10:00〜10:30 坂口和彦(筑波大学): Program Extraction for Mutable Arrays
+
+> We present a mutable array programming library for the Coq proof assistant which enables simple reasoning method based on Ssreflect/Mathematical Components, and extractions of the efficient OCaml programs using in-place updates.  To refine the performance of extracted programs, we improved the extraction plugin of Coq. The improvements are based on trivial transformations for purely functional programs and reduce the construction and destruction costs of (co)inductive objects, and function call costs effectively.  As a concrete application for our library and the improved extraction plugin, we provide efficient implementations, proofs, and benchmarks of two algorithms: the union-find data structure and the quicksort algorithm.
 
 * 10:30〜10:50 小林直樹(東京大学): Higher-Orer Program Verification in Coq via Reduction to HFL Model Checking
 <!-- 15〜20分で十分 -->
 > HFLモデル検査への帰着を利用して、Coqを用いて高階プログラムの検証を行う試みについて紹介する。
 
-* 11:00〜11:45 小島健介(京都大学)他: TPPmark 2017
+* 10:50〜11:30 小島健介(京都大学)他: TPPmark 2017
 
-* 11:45〜13:30 (休憩)
+* 11:30〜13:30 (休憩)
 
 * 13:30〜14:00 師玉康成(信州大学工学部電子情報システム工学科): Mizarによる微分幾何形式化の準備状況(陰関数定理)
 
