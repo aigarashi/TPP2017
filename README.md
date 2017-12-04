@@ -63,7 +63,7 @@ TPP (Theorem Proving and Provers) ミーティングは，2005 年から年に�
 
 > We present a mutable array programming library for the Coq proof assistant which enables simple reasoning method based on Ssreflect/Mathematical Components, and extractions of the efficient OCaml programs using in-place updates.  To refine the performance of extracted programs, we improved the extraction plugin of Coq. The improvements are based on trivial transformations for purely functional programs and reduce the construction and destruction costs of (co)inductive objects, and function call costs effectively.  As a concrete application for our library and the improved extraction plugin, we provide efficient implementations, proofs, and benchmarks of two algorithms: the union-find data structure and the quicksort algorithm.
 
-* 10:30〜10:50 小林直樹(東京大学): Higher-Orer Program Verification in Coq via Reduction to HFL Model Checking
+* 10:30〜10:50 小林直樹、押川広樹(東京大学): Higher-Orer Program Verification in Coq via Reduction to HFL Model Checking
 <!-- 15〜20分で十分 -->
 > HFLモデル検査への帰着を利用して、Coqを用いて高階プログラムの検証を行う試みについて紹介する。
 
