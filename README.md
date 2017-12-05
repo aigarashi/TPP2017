@@ -105,6 +105,16 @@ TPP (Theorem Proving and Provers) ミーティングは，2005 年から年に�
 
 最長共通部分列を求めるアルゴリズムとしてよく知られているのは動的計画法によるものです（[Wikipedia](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)にも解説があります）が，ここでは実装の方針は問いません．素朴に全数探索するアルゴリズムも考えられますし，証明が簡潔に書けることを重視しても面白いかもしれません．
 
+### 解答
+
+* [井上健太さん(Coq)](https://github.com/aigarashi/TPP2017/blob/master/TPPmark/inoue.v) (一番のり(出題2日後)でした!)
+* [山本光晴さん(Coq)](https://github.com/aigarashi/TPP2017/tree/master/TPPmark/yamamoto)
+* [Jacques Garrigueさん(SSreflect)](https://github.com/aigarashi/TPP2017/blob/master/TPPmark/garrigue.v)
+* [水野雅之さん(Coq)](https://gist.github.com/fetburner/3e48c8a947206ad843a724f5039302f6)
+* [酒井政裕さん(Agda)](https://github.com/msakai/tppmark2017)
+* [萩原学さん(LEAN)](https://github.com/aigarashi/TPP2017/tree/master/TPPmark/hagiwara)
+* [ヒューガニン・ジャスパーさん(Coq)](https://github.com/aigarashi/TPP2017/blob/master/TPPmark/hugunin.v)
+
 ## Past TPPs
 
 * [2016](http://pllab.is.ocha.ac.jp/~asai/tpp2016/)
