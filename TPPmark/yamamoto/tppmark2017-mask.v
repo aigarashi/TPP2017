@@ -14,8 +14,8 @@ Definition LCS s t : seq T :=
 
 Lemma lcs_subseq s t : subseq (LCS s t) s /\ subseq (LCS s t) t.
 Proof.
-  rewrite /LCS; split; last by case: arg_maxP => //; rewrite mask_false sub0seq.
-  by apply/subseqP; set m := arg_max _ _ _; exists m => //; rewrite size_tuple.
+  rewrite /LCS; split; first by apply: mask_subseq.
+  by case: arg_maxP => //; rewrite mask_false sub0seq.
 Qed.
 
 Lemma lcs_longest s t u : subseq u s -> subseq u t -> size u <= size (LCS s t).
@@ -37,9 +37,8 @@ Definition LCSL s ts : seq T :=
 
 Lemma lcsl_subseq s ts : subseq (LCSL s ts) s /\ all (subseq (LCSL s ts)) ts.
 Proof.
-  rewrite /LCSL; split.
-  - by apply/subseqP; set m := arg_max _ _ _; exists m; rewrite ?size_tuple.
-  - by case: arg_maxP => //; apply/allP => *; rewrite mask_false sub0seq.
+  rewrite /LCSL; split; first by apply: mask_subseq.
+  by case: arg_maxP => //; apply/allP => *; rewrite mask_false sub0seq.
 Qed.
 
 Lemma lcsl_longest s ts u :
