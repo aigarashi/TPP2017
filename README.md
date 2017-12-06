@@ -80,12 +80,16 @@ TPP (Theorem Proving and Provers) ミーティングは，2005 年から年に�
 > 形式検証技術を用いた暗号システムの安全性評価実現のためには計算量理論についての形式化を行う必要がある。そのために現在（確率的）アルゴリズムを形式記述方法を模索している。本講演ではその途中経過を紹介する。
 
 * 14:30〜15:00 Reynald Affeldt (産業技術総合研究所): (仮)形式的な情報・符号理論のライブラリに向けて
+> This talk is an overview of the infotheo library for formalization of information and coding theory in the Coq proof-assistant. We explain in particular how we formalized the Reed-Solomon and BCH codes using a common library for polynomial codes and the Euclidean algorithm for decoding. Thanks to this recent addition, the infotheo library now contains enough material to cover a university class about codes and to tackle advanced topics such as Goppa codes.
 
 * 15:00〜15:30 (休憩)
 
 * 15:30〜16:00 南出靖彦 (東京工業大学): 正規表現マッチングにおけるPOSIX戦略の定式化の再考
 
-* 16:00〜16:30 水野雅之 (東北大学情報科学研究科): (TBA)
+* 16:00〜16:30 水野雅之 (東北大学情報科学研究科): Formal Verification of the Correspondence between Call-by-Need and Call-by-Name
+> We formalize the call-by-need evaluation of non-strict languages and prove its correspondence with call-by-name, using the Coq proof assistant. <br>
+> It has been long argued that there is a gap between the high-level abstraction of non-strict languages---namely, _call-by-name_ evaluation---and their actual _call-by-need_ implementations.  Although a number of proofs have been given to bridge this gap, they are not necessarily suitable for stringent, mechanized verification because of the use of a global heap, "graph-based" techniques, or "marked reduction". Our technical contributions are twofold: (1) we give a simpler proof based on two forms of standardization, adopting de Bruijn indices for representation of variable bindings along with Ariola and Felleisen's small-step semantics, and (2) we devise a technique to significantly simplify the formalization by eliminating the notion of evaluation contexts---which have been considered essential for the call-by-need calculus---from the definitions.
+
 
 ## TPPmark (出題: 小島健介さん)
 
