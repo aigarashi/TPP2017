@@ -41,54 +41,56 @@ TPP (Theorem Proving and Provers) ミーティングは，2005 年から年に�
 
 * 13:30〜13:40 (オープニング)
 
-* 13:40〜14:10 田中哲(産業技術総合研究所)「Coq からの低レベル C コード生成」
+* 13:40〜14:10 Coq からの低レベル C コード生成<br>田中哲(産業技術総合研究所)
 
 > 我々は Coq から C コードを生成する Coq plugin を開発している。Coq から C コードを生成することにより、検証された高速なコードを実現でき、また、さまざまなプログラミング言語から生成したコードを利用できる。この講演では、SSE を利用した HTML escape 関数を例として Coq から低レベルな C コードを生成する方法について述べる。我々の方法では、プログラムを Coq 内で記述することにより検証を可能とし、 また SSE のような CPU の機能を直接使うことも可能であり、高速なコードを生成できる。
 
-* 14:10〜15:00 佐藤雅彦(京都大学): A common notation system for both the lambda-calculus and combinatory logic
+* 14:10〜15:00 A common notation system for both the lambda-calculus and combinatory logic<br>佐藤雅彦(京都大学)
 
 > We present a notation system which can be used to faithfully represent both the terms of lambda calculus and combinatory logic. We show the faithfulness of the representations by observing that the representations respect the beta and eta reduction rules.
 
 * 15:00〜15:30 (休憩)
 
-* 15:30〜16:00 HUGUNIN, Jasper(東京工業大学) "Inductive-Inductive definitions in intensional type theory"
+* 15:30〜16:00 Inductive-Inductive definitions in intensional type theory<br>
+HUGUNIN, Jasper(東京工業大学)
 
 > Forsbergの卒業論文で，extensional type theoryで Inductive-Inductive typesをindexed inductive typesに変換する方法があった．しかし，それは uniqueness of identity proofsを必須としていたので，直接 intensional type theoryで同じことはできない．この講演で進行中のintensional type theoryでの変換方法を発表します．
 
-* 16:00〜16:30 中野圭介(電気通信大学): ComplCoq: Coq のための Rewrite Hint 完備化プラグイン
+* 16:00〜16:30 ComplCoq: Coq のための Rewrite Hint 完備化プラグイン<br>中野圭介(電気通信大学)
 
 ### 12/7(木)
 
-* 10:00〜10:30 坂口和彦(筑波大学): Program Extraction for Mutable Arrays
+* 10:00〜10:30 Program Extraction for Mutable Arrays<br>坂口和彦(筑波大学)
 
 > We present a mutable array programming library for the Coq proof assistant which enables simple reasoning method based on Ssreflect/Mathematical Components, and extractions of the efficient OCaml programs using in-place updates.  To refine the performance of extracted programs, we improved the extraction plugin of Coq. The improvements are based on trivial transformations for purely functional programs and reduce the construction and destruction costs of (co)inductive objects, and function call costs effectively.  As a concrete application for our library and the improved extraction plugin, we provide efficient implementations, proofs, and benchmarks of two algorithms: the union-find data structure and the quicksort algorithm.
 
-* 10:30〜10:50 小林直樹、押川広樹(東京大学): Higher-Orer Program Verification in Coq via Reduction to HFL Model Checking
+* 10:30〜10:50 Higher-Order Program Verification in Coq via Reduction to HFL Model Checking <br> 小林直樹、押川広樹(東京大学)
 <!-- 15〜20分で十分 -->
 > HFLモデル検査への帰着を利用して、Coqを用いて高階プログラムの検証を行う試みについて紹介する。
 
 * 10:50〜11:00 中野圭介(電気通信大学): ComplCoq デモ
 
-* 11:00〜11:40 小島健介(京都大学)他: TPPmark 2017
+* 11:00〜11:40 TPPmark 2017<br>
+  小島健介(京都大学)他
 
 * 11:40〜13:30 (休憩)
 
-* 13:30〜14:00 師玉康成(信州大学工学部電子情報システム工学科): Mizarによる微分幾何形式化の準備状況(陰関数定理)
+* 13:30〜14:00 [Mizarによる微分幾何形式化の準備状況(陰関数定理)](https://github.com/aigarashi/TPP2017/tree/master/talks/shidama.pdf)<br>師玉康成(信州大学工学部電子情報システム工学科)
 
 > Mizarによる微分幾何の形式化の準備状況を概説する。当面の目標はストークス定理などの形式化であるが、現状、陰関数定理まで形式化ができているのでこれを中心に経過を報告する。
 
-* 14:00〜14:30 岡崎裕之(信州大学): Mizarによる計算量のためのアルゴリズムの形式化について
+* 14:00〜14:30 Mizarによる計算量のためのアルゴリズムの形式化について<br>岡崎裕之(信州大学): 
 <!-- 師玉さんの後 -->
 > 形式検証技術を用いた暗号システムの安全性評価実現のためには計算量理論についての形式化を行う必要がある。そのために現在（確率的）アルゴリズムを形式記述方法を模索している。本講演ではその途中経過を紹介する。
 
-* 14:30〜15:00 Reynald Affeldt (産業技術総合研究所): (仮)形式的な情報・符号理論のライブラリに向けて
+* 14:30〜15:00 (仮)形式的な情報・符号理論のライブラリに向けて<br>Reynald Affeldt (産業技術総合研究所)
 > This talk is an overview of the infotheo library for formalization of information and coding theory in the Coq proof-assistant. We explain in particular how we formalized the Reed-Solomon and BCH codes using a common library for polynomial codes and the Euclidean algorithm for decoding. Thanks to this recent addition, the infotheo library now contains enough material to cover a university class about codes and to tackle advanced topics such as Goppa codes.
 
 * 15:00〜15:30 (休憩)
 
-* 15:30〜16:00 南出靖彦 (東京工業大学): 正規表現マッチングにおけるPOSIX戦略の定式化の再考
+* 15:30〜16:00 正規表現マッチングにおけるPOSIX戦略の定式化の再考<br>南出靖彦 (東京工業大学)
 
-* 16:00〜16:30 水野雅之 (東北大学情報科学研究科): Formal Verification of the Correspondence between Call-by-Need and Call-by-Name
+* 16:00〜16:30 Formal Verification of the Correspondence between Call-by-Need and Call-by-Name<br>水野雅之 (東北大学情報科学研究科)
 > We formalize the call-by-need evaluation of non-strict languages and prove its correspondence with call-by-name, using the Coq proof assistant. <br>
 > It has been long argued that there is a gap between the high-level abstraction of non-strict languages---namely, _call-by-name_ evaluation---and their actual _call-by-need_ implementations.  Although a number of proofs have been given to bridge this gap, they are not necessarily suitable for stringent, mechanized verification because of the use of a global heap, "graph-based" techniques, or "marked reduction". Our technical contributions are twofold: (1) we give a simpler proof based on two forms of standardization, adopting de Bruijn indices for representation of variable bindings along with Ariola and Felleisen's small-step semantics, and (2) we devise a technique to significantly simplify the formalization by eliminating the notion of evaluation contexts---which have been considered essential for the call-by-need calculus---from the definitions.
 
@@ -118,7 +120,7 @@ TPP (Theorem Proving and Provers) ミーティングは，2005 年から年に�
 * [Jacques Garrigueさん(Coq/Ssreflect)](https://github.com/aigarashi/TPP2017/blob/master/TPPmark/garrigue.v)
 * [水野雅之さん(Coq)](https://gist.github.com/fetburner/3e48c8a947206ad843a724f5039302f6)
 * [酒井政裕さん(Agda)](https://github.com/msakai/tppmark2017)
-* [萩原学さん(LEAN)](https://github.com/aigarashi/TPP2017/tree/master/TPPmark/hagiwara)
+* [萩原学さん(LEAN)](https://github.com/aigarashi/TPP2017/tree/master/TPPmark/hagiwara) (ゼロ番のり—出題前に解かれていました—でした!)
 * [ヒューガニン・ジャスパーさん(Coq)](https://github.com/aigarashi/TPP2017/blob/master/TPPmark/hugunin.v)
 
 ## Past TPPs
