@@ -116,7 +116,7 @@ HUGUNIN, Jasper(東京工業大学)
 ### 解答
 
 * [井上健太さん(Coq/Ssreflect)](https://github.com/aigarashi/TPP2017/blob/master/TPPmark/inoue.v) (一番のり(出題2日後)でした!)
-* [山本光晴さん(Coq/Ssreflect)](https://github.com/aigarashi/TPP2017/tree/master/TPPmark/yamamoto)
+* [山本光晴さん(Coq/Ssreflect)](https://github.com/aigarashi/TPP2017/tree/master/TPPmark/yamamoto) [(スライド)](https://github.com/aigarashi/TPP2017/tree/master/TPPmark/yamamoto/yamamoto.pdf)
 * [Jacques Garrigueさん(Coq/Ssreflect)](https://github.com/aigarashi/TPP2017/blob/master/TPPmark/garrigue.v)
 * [水野雅之さん(Coq)](https://gist.github.com/fetburner/3e48c8a947206ad843a724f5039302f6)
 * [酒井政裕さん(Agda)](https://github.com/msakai/tppmark2017)
